@@ -67,7 +67,6 @@
 
     @FILLCOLOR
     D ; JGT	
-    /////////////////////////
     
     @RESTART
     0;JMP
