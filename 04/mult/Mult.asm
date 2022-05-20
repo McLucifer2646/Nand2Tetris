@@ -28,7 +28,7 @@
     @i
     D = M
     @END
-    D = D-1;JLE
+    D = D-1;JEQ
 
     @R1
     D = M         // D= R1
